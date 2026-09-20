@@ -1,0 +1,4 @@
+torch>=2.6,<3.0
+tqdm>=4.66
+pytest>=8.0
+ruff>=0.8
