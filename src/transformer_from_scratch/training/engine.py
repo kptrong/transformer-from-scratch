@@ -8,7 +8,6 @@ import torch
 from torch import Tensor, nn
 from torch.nn.utils import clip_grad_norm_
 
-
 Batch = tuple[Tensor, Tensor, Tensor]
 
 
